@@ -1,0 +1,2 @@
+# minicms
+Mini CMS
